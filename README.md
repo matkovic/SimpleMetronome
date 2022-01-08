@@ -5,4 +5,4 @@ For playing sound I used SoundPool and only changed the rate for different BPMs.
 
 BPMs are possible from 30 to 260 (maybe a little exaggerated).
 
-![simple metronome](http://shrani.si/f/1q/2R/uCL8Edx/screenshot2016-09-25-10-.png)
+![simple metronome](imgs/screenshot_simplemetronome.jpg)
